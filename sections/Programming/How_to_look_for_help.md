@@ -8,6 +8,12 @@
     * i.e. searching for "coverage" can pull up less than useful answers
     * add more information or search specific sites
 1. If your question is about the program, search their documentation first
+1. Search [relevant websites](#useful-websites) for the appropriate answer
+1. Watch out for going down informational rabbit-holes
+1. Reach out to your PI or postdoc after you have:
+    * Tried looking it up on your own
+    * Attempted at least 1 solution or have a few planned strategies
+    * Can accurately describe the nature of the error/roadbloack to the best of your knowledge. 
 
 
 # Tips for Google

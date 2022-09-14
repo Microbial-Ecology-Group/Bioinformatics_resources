@@ -69,7 +69,7 @@ Learn some stuff( +- Study design and grant writing &rarr; sample collection &ra
     * On the server
     * Your personal computer
   * [How to look for help](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/sections/Programming/How_to_look_for_help.md)
-  * Tips for using someone else's code
+  * [Tips for using someone else's code](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/sections/Programming/How_to_user_others_code.md)
 * Bioinformatics
   * Using the server
   * Common file types
