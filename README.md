@@ -1,5 +1,9 @@
 # Introduction to statistical analysis of metagenomic sequencing data
-## Contacts
+
+## The goal of this repository is to serve as a central location for useful resources
+
+
+### Contacts
 
 Email: meglab.metagenomics@gmail.com
   * Enrique Doster - enriquedoster@gmail.com
@@ -7,8 +11,8 @@ Email: meglab.metagenomics@gmail.com
   * Lee Pinnell - ljpinnell@cvm.tamu.edu
 
 
-## Don't know what something means, start here:
-[MEG bioinformatic term glossary](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/misc_resources/Glossary.md)
+
+### Don't know what something means, start here: [MEG bioinformatic term glossary](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/misc_resources/Glossary.md)
 
 ## Repository content
 * [Learning objectives](#learning-objectives)
@@ -17,6 +21,13 @@ Email: meglab.metagenomics@gmail.com
 ### Learning objectives:
 
 Rough outline of concepts/skills you'll likely need as a graduate student.
+
+Main steps as a graduate student:
+
+Learn some stuff( +- Study design and grant writing &rarr; sample collection &rarr; library prep &rarr; sequencing &rarr; bioinformatic analysis &rarr; data visualization  &rarr; statistical analysis &rarr; manuscript preparation  &rarr;  &rarr;  thesis/dissertation completion  &rarr; yay! )
+
+
+
 * Personal skills
   * Organization
     * Lab notebook/Code repository
@@ -40,7 +51,7 @@ Rough outline of concepts/skills you'll likely need as a graduate student.
   * Project-specific biology
   * Epidemiology
 * Programming
-  * Important programming concepts:
+  * [Important programming concepts](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/sections/Programming/Important_programming_concepts.md):
     * Operating systems
     * Programming languages
     * computing "Environment"
