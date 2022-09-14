@@ -11,10 +11,8 @@ Email: meglab.metagenomics@gmail.com
 [MEG bioinformatic term glossary](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/misc_resources/Glossary.md)
 
 ## Repository content
-* [Course summary](#summary)
 * [Learning objectives](#learning-objectives)
 * [Resources](#resources)
-
 
 ### Learning objectives:
 
@@ -40,20 +38,18 @@ Rough outline of concepts/skills you'll likely need as a graduate student.
   * Antimicrobial resistance
   * Livestock production
   * Project-specific biology
+  * Epidemiology
 * Programming
-  * Important concepts:
-    * Operating system
+  * Important programming concepts:
+    * Operating systems
     * Programming languages
     * computing "Environment"
     * Software/programs/executables
     * Command line
-    * GUI
-    * R Packages
     * Functions
-    * Variables/Objects
-    * Running scripts
+    * etc.
   * Languagues
-    * Mainstays:
+    * Main languages:
       * bash/shell: used to work in computing clusters, run bioinformatic pipelines
       * R programming: most, if not all of your statistics can be run in R
     * Optional:
@@ -71,14 +67,24 @@ Rough outline of concepts/skills you'll likely need as a graduate student.
     * QIIME2
     * Learning to run different pipelines
 * Statistical analysis
-  * Important concepts
+  * Important statistical concepts
+    * Sequencing count data 
+    * Rarefaction
+    * Count normalization
+    * Diversity
+    * Linear models
+    * Non-parametric testing
+    * Differential abundance testing
+    * Bayesian vs Frequentist statistics
+    * etc.
   * Data exploration
+  * Data visualization
   * Statistics
     * Sequencing effort
-    * Alpha diversity 
-    * Ordination
+    * Alpha diversity - Wilcox testing
+    * Beta diversity - Ordination on distance matrix
     * Differential abundance testing
-
+    * Machine learning - Random forests
 * Writing
   * What to report
   * Outlines!
