@@ -68,7 +68,7 @@ Learn some stuff( +- Study design and grant writing &rarr; sample collection &ra
   * Setting up your environment
     * On the server
     * Your personal computer
-  * How to look for help
+  * [How to look for help](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/sections/Programming/How_to_look_for_help.md)
   * Tips for using someone else's code
 * Bioinformatics
   * Using the server
