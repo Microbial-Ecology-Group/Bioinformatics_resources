@@ -14,6 +14,11 @@ Email: meglab.metagenomics@gmail.com
 
 ### Don't know what something means, start here: [MEG bioinformatic term glossary](https://github.com/Microbial-Ecology-Group/Bioinformatics_resources/blob/master/misc_resources/Glossary.md)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Microbial-Ecology-Group/Bioinformatics_resources/HEAD)
+
+https://mybinder.org/v2/gh/Microbial-Ecology-Group/Bioinformatics_resources/HEAD
+
+
 ## Repository content
 * [Learning objectives](#learning-objectives)
 * [Resources](#resources)
