@@ -1,9 +1,9 @@
 channels:
+  - conda-forge
   - anaconda
   - defaults
-  - conda-forge
 dependencies:
-  - r-base
   - bioconductor-phyloseq
   - bioconductor-metagenomeseq
+  - r-base
   - r-ggplot2
